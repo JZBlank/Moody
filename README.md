@@ -1,3 +1,3 @@
-# Moody
+# Moody (WORK IN PROGRESS)
 
-Simple Electron App that will generate quotes.
+Simple Electron App that will generate quotes. 
